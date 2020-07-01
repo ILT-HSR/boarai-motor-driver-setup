@@ -1274,10 +1274,10 @@
             <Nodes>
               <Node Text="Amps Limits">
                 <Nodes>
-                  <Node Text="Amps Limit (A)" Value="200">
+                  <Node Text="Amps Limit (A)" Value="600">
                     <Nodes />
                   </Node>
-                  <Node Text="Amps Trigger (A)" Value="200">
+                  <Node Text="Amps Trigger (A)" Value="500">
                     <Nodes />
                   </Node>
                   <Node Text="Amps Trigger Action" Value="50">
@@ -1498,10 +1498,10 @@
             <Nodes>
               <Node Text="Amps Limits">
                 <Nodes>
-                  <Node Text="Amps Limit (A)" Value="200">
+                  <Node Text="Amps Limit (A)" Value="600">
                     <Nodes />
                   </Node>
-                  <Node Text="Amps Trigger (A)" Value="200">
+                  <Node Text="Amps Trigger (A)" Value="500">
                     <Nodes />
                   </Node>
                   <Node Text="Amps Trigger Action" Value="50">
